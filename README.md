@@ -1,6 +1,5 @@
 # LabCGIHC_DianaC
 <p> 
-  <img height="200 "src="https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudo_fi_color.png" align="left"><img height="200 "src="https://www.ingenieria.unam.mx/nuestra_facultad/images/institucionales/escudos/escudounam_color.jpg" align="right">
   <h2 align="center">UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</h2>
   <h2 align="center">FACULTAD DE INGENIERÍA</h2>
   <h2 align="center">DIVISIÓN DE INGENIERÍA ELÉCTRICA</h2>
